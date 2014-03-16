@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std ;
 
-// ADHOC
-
 int main(){
 
  int i , j , K ,V , A ,B ;
